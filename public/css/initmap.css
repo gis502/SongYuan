@@ -1,0 +1,19 @@
+#allmap  {width: 500px;height: 500px;overflow: hidden;margin:0
+;font-family:"微软雅黑";}
+#coordinate{
+	position: relative;
+	margin: 15px 9px -4px -43px;
+	left: 50px;
+}
+#coordinates{
+	position: relative;
+	margin: -2px 9px -1px -50px;
+	left: 50px;
+}
+.funtionbox{
+	position: relative;
+	margin: 22px 0px 0px 68px;
+	float: left;
+	width: 148px;
+	height: 10px;
+}

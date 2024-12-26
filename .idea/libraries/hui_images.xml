@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hui_images">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/hui_images/20161008tiler.zip!/" />
+      <root url="jar://$PROJECT_DIR$/public/hui_images/login1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
